@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nested-Rounting/static/css/main.41e5793d.css",
-    "main.js": "/Nested-Rounting/static/js/main.fea31fc9.js",
+    "main.js": "/Nested-Rounting/static/js/main.781dadd8.js",
     "static/js/787.e5788219.chunk.js": "/Nested-Rounting/static/js/787.e5788219.chunk.js",
     "index.html": "/Nested-Rounting/index.html",
     "main.41e5793d.css.map": "/Nested-Rounting/static/css/main.41e5793d.css.map",
-    "main.fea31fc9.js.map": "/Nested-Rounting/static/js/main.fea31fc9.js.map",
+    "main.781dadd8.js.map": "/Nested-Rounting/static/js/main.781dadd8.js.map",
     "787.e5788219.chunk.js.map": "/Nested-Rounting/static/js/787.e5788219.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41e5793d.css",
-    "static/js/main.fea31fc9.js"
+    "static/js/main.781dadd8.js"
   ]
 }
